@@ -1,0 +1,27 @@
+Rappel sur les hyperviseur de type 1
+
+Architecture d'un hyperviseur de type 1
+Communication entre les nœuds d'un cluster
+Stockage partagé
+Haute disponibilité et tolérance aux pannes
+
+Choix des hyperviseurs et du matériel
+Installation et configuration des hyperviseurs
+Création du cluster
+Tests de fonctionnement du cluster
+
+Présentation des solutions de stockage partagé
+Mise en oeuvre avec iSCSI ou SMB
+Optimisation des performances
+
+Migration à chaud des machines virtuelles
+Équilibrage de charge
+Basculement automatique en cas de panne
+
+Notions de quorum
+Protection contre les pannes matérielles et logicielles
+Tests de résilience
+
+Outils de supervision
+Métriques essentielles à surveiller
+Alerting et reporting
